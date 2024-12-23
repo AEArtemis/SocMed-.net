@@ -1,0 +1,33 @@
+C:\Users\AS MARK DEV\Desktop\Github Repositories\RDLCReports\RDLCreport\DataManager\DataManager\bin\Debug\DataManager.dll.config
+C:\Users\AS MARK DEV\Desktop\Github Repositories\RDLCReports\RDLCreport\DataManager\DataManager\bin\Debug\DataManager.dll
+C:\Users\AS MARK DEV\Desktop\Github Repositories\RDLCReports\RDLCreport\DataManager\DataManager\bin\Debug\DataManager.pdb
+C:\Users\AS MARK DEV\Desktop\Github Repositories\RDLCReports\RDLCreport\DataManager\DataManager\bin\Debug\EncryptUtilities.dll
+C:\Users\AS MARK DEV\Desktop\Github Repositories\RDLCReports\RDLCreport\DataManager\DataManager\bin\Debug\MySql.Data.dll
+C:\Users\AS MARK DEV\Desktop\Github Repositories\RDLCReports\RDLCreport\DataManager\DataManager\bin\Debug\EncryptUtilities.pdb
+C:\Users\AS MARK DEV\Desktop\Github Repositories\RDLCReports\RDLCreport\DataManager\DataManager\obj\Debug\DataManager.csproj.AssemblyReference.cache
+C:\Users\AS MARK DEV\Desktop\Github Repositories\RDLCReports\RDLCreport\DataManager\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+C:\Users\AS MARK DEV\Desktop\Github Repositories\RDLCReports\RDLCreport\DataManager\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+C:\Users\AS MARK DEV\Desktop\Github Repositories\RDLCReports\RDLCreport\DataManager\DataManager\obj\Debug\DataManager.dll
+C:\Users\AS MARK DEV\Desktop\Github Repositories\RDLCReports\RDLCreport\DataManager\DataManager\obj\Debug\DataManager.pdb
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\RDLCReports\RDLCreport\DataManager\DataManager\bin\Debug\DataManager.dll.config
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\RDLCReports\RDLCreport\DataManager\DataManager\bin\Debug\DataManager.dll
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\RDLCReports\RDLCreport\DataManager\DataManager\bin\Debug\DataManager.pdb
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\RDLCReports\RDLCreport\DataManager\DataManager\bin\Debug\EncryptUtilities.dll
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\RDLCReports\RDLCreport\DataManager\DataManager\bin\Debug\MySql.Data.dll
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\RDLCReports\RDLCreport\DataManager\DataManager\bin\Debug\EncryptUtilities.pdb
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\RDLCReports\RDLCreport\DataManager\DataManager\obj\Debug\DataManager.csproj.AssemblyReference.cache
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\RDLCReports\RDLCreport\DataManager\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\RDLCReports\RDLCreport\DataManager\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\RDLCReports\RDLCreport\DataManager\DataManager\obj\Debug\DataManager.dll
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\RDLCReports\RDLCreport\DataManager\DataManager\obj\Debug\DataManager.pdb
+C:\Users\limpo\OneDrive\Desktop\Visual Studio Projects\GUNASYSTEM\Common\DataManager\DataManager\bin\Debug\DataManager.dll.config
+C:\Users\limpo\OneDrive\Desktop\Visual Studio Projects\GUNASYSTEM\Common\DataManager\DataManager\bin\Debug\DataManager.dll
+C:\Users\limpo\OneDrive\Desktop\Visual Studio Projects\GUNASYSTEM\Common\DataManager\DataManager\bin\Debug\DataManager.pdb
+C:\Users\limpo\OneDrive\Desktop\Visual Studio Projects\GUNASYSTEM\Common\DataManager\DataManager\bin\Debug\EncryptUtilities.dll
+C:\Users\limpo\OneDrive\Desktop\Visual Studio Projects\GUNASYSTEM\Common\DataManager\DataManager\bin\Debug\MySql.Data.dll
+C:\Users\limpo\OneDrive\Desktop\Visual Studio Projects\GUNASYSTEM\Common\DataManager\DataManager\bin\Debug\EncryptUtilities.pdb
+C:\Users\limpo\OneDrive\Desktop\Visual Studio Projects\GUNASYSTEM\Common\DataManager\DataManager\obj\Debug\DataManager.csproj.AssemblyReference.cache
+C:\Users\limpo\OneDrive\Desktop\Visual Studio Projects\GUNASYSTEM\Common\DataManager\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+C:\Users\limpo\OneDrive\Desktop\Visual Studio Projects\GUNASYSTEM\Common\DataManager\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+C:\Users\limpo\OneDrive\Desktop\Visual Studio Projects\GUNASYSTEM\Common\DataManager\DataManager\obj\Debug\DataManager.dll
+C:\Users\limpo\OneDrive\Desktop\Visual Studio Projects\GUNASYSTEM\Common\DataManager\DataManager\obj\Debug\DataManager.pdb

@@ -1,0 +1,33 @@
+C:\Users\aSDD01\Desktop\FMIS-NEW\Common\DataManager\bin\x86\Debug\DataManager.dll.config
+C:\Users\aSDD01\Desktop\FMIS-NEW\Common\DataManager\bin\x86\Debug\DataManager.dll
+C:\Users\aSDD01\Desktop\FMIS-NEW\Common\DataManager\bin\x86\Debug\DataManager.pdb
+C:\Users\aSDD01\Desktop\FMIS-NEW\Common\DataManager\bin\x86\Debug\EncryptUtilities.dll
+C:\Users\aSDD01\Desktop\FMIS-NEW\Common\DataManager\bin\x86\Debug\MySql.Data.dll
+C:\Users\aSDD01\Desktop\FMIS-NEW\Common\DataManager\bin\x86\Debug\EncryptUtilities.pdb
+C:\Users\aSDD01\Desktop\FMIS-NEW\Common\DataManager\obj\x86\Debug\DataManager.csproj.AssemblyReference.cache
+C:\Users\aSDD01\Desktop\FMIS-NEW\Common\DataManager\obj\x86\Debug\DataManager.csproj.CoreCompileInputs.cache
+C:\Users\aSDD01\Desktop\FMIS-NEW\Common\DataManager\obj\x86\Debug\DataManager.csproj.CopyComplete
+C:\Users\aSDD01\Desktop\FMIS-NEW\Common\DataManager\obj\x86\Debug\DataManager.dll
+C:\Users\aSDD01\Desktop\FMIS-NEW\Common\DataManager\obj\x86\Debug\DataManager.pdb
+C:\Users\limpo\source\repos\GUNASYSTEM\Common\DataManager\DataManager\bin\x86\Debug\DataManager.dll.config
+C:\Users\limpo\source\repos\GUNASYSTEM\Common\DataManager\DataManager\bin\x86\Debug\DataManager.dll
+C:\Users\limpo\source\repos\GUNASYSTEM\Common\DataManager\DataManager\bin\x86\Debug\DataManager.pdb
+C:\Users\limpo\source\repos\GUNASYSTEM\Common\DataManager\DataManager\bin\x86\Debug\EncryptUtilities.dll
+C:\Users\limpo\source\repos\GUNASYSTEM\Common\DataManager\DataManager\bin\x86\Debug\MySql.Data.dll
+C:\Users\limpo\source\repos\GUNASYSTEM\Common\DataManager\DataManager\bin\x86\Debug\EncryptUtilities.pdb
+C:\Users\limpo\source\repos\GUNASYSTEM\Common\DataManager\DataManager\obj\x86\Debug\DataManager.csproj.AssemblyReference.cache
+C:\Users\limpo\source\repos\GUNASYSTEM\Common\DataManager\DataManager\obj\x86\Debug\DataManager.csproj.CoreCompileInputs.cache
+C:\Users\limpo\source\repos\GUNASYSTEM\Common\DataManager\DataManager\obj\x86\Debug\DataManager.csproj.CopyComplete
+C:\Users\limpo\source\repos\GUNASYSTEM\Common\DataManager\DataManager\obj\x86\Debug\DataManager.dll
+C:\Users\limpo\source\repos\GUNASYSTEM\Common\DataManager\DataManager\obj\x86\Debug\DataManager.pdb
+C:\Users\limpo\OneDrive\Desktop\Visual Studio Projects\GUNASYSTEM\Common\DataManager\DataManager\bin\x86\Debug\DataManager.dll.config
+C:\Users\limpo\OneDrive\Desktop\Visual Studio Projects\GUNASYSTEM\Common\DataManager\DataManager\bin\x86\Debug\DataManager.dll
+C:\Users\limpo\OneDrive\Desktop\Visual Studio Projects\GUNASYSTEM\Common\DataManager\DataManager\bin\x86\Debug\DataManager.pdb
+C:\Users\limpo\OneDrive\Desktop\Visual Studio Projects\GUNASYSTEM\Common\DataManager\DataManager\bin\x86\Debug\EncryptUtilities.dll
+C:\Users\limpo\OneDrive\Desktop\Visual Studio Projects\GUNASYSTEM\Common\DataManager\DataManager\bin\x86\Debug\MySql.Data.dll
+C:\Users\limpo\OneDrive\Desktop\Visual Studio Projects\GUNASYSTEM\Common\DataManager\DataManager\bin\x86\Debug\EncryptUtilities.pdb
+C:\Users\limpo\OneDrive\Desktop\Visual Studio Projects\GUNASYSTEM\Common\DataManager\DataManager\obj\x86\Debug\DataManager.csproj.AssemblyReference.cache
+C:\Users\limpo\OneDrive\Desktop\Visual Studio Projects\GUNASYSTEM\Common\DataManager\DataManager\obj\x86\Debug\DataManager.csproj.CoreCompileInputs.cache
+C:\Users\limpo\OneDrive\Desktop\Visual Studio Projects\GUNASYSTEM\Common\DataManager\DataManager\obj\x86\Debug\DataManager.csproj.CopyComplete
+C:\Users\limpo\OneDrive\Desktop\Visual Studio Projects\GUNASYSTEM\Common\DataManager\DataManager\obj\x86\Debug\DataManager.dll
+C:\Users\limpo\OneDrive\Desktop\Visual Studio Projects\GUNASYSTEM\Common\DataManager\DataManager\obj\x86\Debug\DataManager.pdb

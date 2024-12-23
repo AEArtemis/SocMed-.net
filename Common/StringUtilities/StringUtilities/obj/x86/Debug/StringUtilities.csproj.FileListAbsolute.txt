@@ -1,0 +1,5 @@
+C:\Users\aSDD01\Desktop\FMIS-NEW\Common\StringUtilities\bin\x86\Debug\StringUtilities.dll
+C:\Users\aSDD01\Desktop\FMIS-NEW\Common\StringUtilities\bin\x86\Debug\StringUtilities.pdb
+C:\Users\aSDD01\Desktop\FMIS-NEW\Common\StringUtilities\obj\x86\Debug\StringUtilities.csproj.CoreCompileInputs.cache
+C:\Users\aSDD01\Desktop\FMIS-NEW\Common\StringUtilities\obj\x86\Debug\StringUtilities.dll
+C:\Users\aSDD01\Desktop\FMIS-NEW\Common\StringUtilities\obj\x86\Debug\StringUtilities.pdb
